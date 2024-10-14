@@ -2,7 +2,6 @@
 
 **Instructor:** Dr. Amir Jahanshahi  
 **Course:** Advanced Programming - Midterm Project  
-**Deadline:** Friday, 29 Farvardin - 23:00  
 
 This project is a Rubik's Cube solver for a 2x2 Rubik's game, developed as part of the Advanced Programming midterm project. The project implements five different search algorithms to solve the game:
 
